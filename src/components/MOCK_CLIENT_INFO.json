@@ -1,0 +1,79 @@
+[
+  {
+    "client_id": 1,
+    "client_name": "Home Depot",
+    "address": "4654 Main Street Tulsa, Oklahoma 74008",
+    "phone_number": "971-456-9862",
+    "is_deleted": false
+  },
+  {
+    "client_id": 2,
+    "client_name": "D'Amore, Von and Abshire",
+    "address": "00853 Monument Parkway",
+    "phone_number": "296-645-9708",
+    "is_deleted": false
+  },
+  {
+    "client_id": 3,
+    "client_name": "Mosciski-Ondricka",
+    "address": "9 Mockingbird Terrace",
+    "phone_number": "706-252-1674",
+    "is_deleted": true
+  },
+  {
+    "client_id": 4,
+    "client_name": "Romaguera-VonRueden",
+    "address": "99319 Oak Valley Trail",
+    "phone_number": "111-856-8929",
+    "is_deleted": true
+  },
+  {
+    "client_id": 5,
+    "client_name": "Littel-Rice",
+    "address": "0974 Dryden Junction",
+    "phone_number": "942-946-2024",
+    "is_deleted": false
+  },
+  {
+    "client_id": 6,
+    "client_name": "Jacobi Group",
+    "address": "063 Fordem Pass",
+    "phone_number": "686-722-7364",
+    "is_deleted": true
+  },
+  {
+    "client_id": 7,
+    "client_name": "McKenzie-Kutch",
+    "address": "2610 Lakewood Gardens Way",
+    "phone_number": "879-913-3039",
+    "is_deleted": false
+  },
+  {
+    "client_id": 8,
+    "client_name": "Hegmann, Doyle and Kihn",
+    "address": "3733 Birchwood Point",
+    "phone_number": "439-797-2513",
+    "is_deleted": false
+  },
+  {
+    "client_id": 9,
+    "client_name": "Leffler-Quitzon",
+    "address": "55080 Cambridge Hill",
+    "phone_number": "236-100-7884",
+    "is_deleted": true
+  },
+  {
+    "client_id": 10,
+    "client_name": "Bauch-Zulauf",
+    "address": "6 Kim Alley",
+    "phone_number": "370-152-5993",
+    "is_deleted": true
+  },
+  {
+    "client_id": 11,
+    "client_name": "Botsford, Russel and Bosco",
+    "address": "3 Red Cloud Alley",
+    "phone_number": "394-890-5463",
+    "is_deleted": true
+  }
+]

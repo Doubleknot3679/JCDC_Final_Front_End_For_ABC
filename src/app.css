@@ -1,0 +1,36 @@
+body {
+  margin: 40;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+p {
+  text-align: left;
+  padding-top: 15px;
+}
+body {
+  background-color: #ceeddb;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+button {
+  padding: 5px;
+  margin: 2px;
+}
+
+.formdiv {
+  padding: 2px;
+  text-align: left;
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "resource_id": 1,
+    "resource_name": "Bolts",
+    "resource_type": "Hardware",
+    "max_num_resources": 50000,
+    "current_num_resources": 13684,
+    "inventory": 1,
+    "is_deleted": 0
+  },
+  {
+    "resource_id": 2,
+    "resource_name": "Nuts",
+    "resource_type": "Hardware",
+    "max_num_resources": 50000,
+    "current_num_resources": 22141,
+    "inventory": 1,
+    "is_deleted": 0
+  },
+  {
+    "resource_id": 3,
+    "resource_name": "Washers",
+    "resource_type": "Hardware",
+    "max_num_resources": 50000,
+    "current_num_resources": 11141,
+    "inventory": 1,
+    "is_deleted": 0
+  },
+  {
+    "resource_id": 4,
+    "resource_name": "Screws",
+    "resource_type": "Hardware",
+    "max_num_resources": 50000,
+    "current_num_resources": 38221,
+    "inventory": 1,
+    "is_deleted": 0
+  },
+  {
+    "resource_id": 5,
+    "resource_name": "Zipties",
+    "resource_type": "Hardware",
+    "max_num_resources": 50000,
+    "current_num_resources": 41235,
+    "inventory": 1,
+    "is_deleted": 0
+  }
+]

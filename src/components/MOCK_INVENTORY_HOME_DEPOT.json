@@ -1,0 +1,10 @@
+[
+  {
+    "inventory_id": 1,
+    "item_name": "Hardware",
+    "storage_type": "Construction",
+    "max_item_capacity": 1000,
+    "client": 1,
+    "is_deleted": 0
+  }
+]
